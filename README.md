@@ -1,0 +1,4 @@
+CardDealer
+==========
+
+PHP card dealer
